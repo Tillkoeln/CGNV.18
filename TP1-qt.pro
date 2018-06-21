@@ -1,6 +1,6 @@
 TEMPLATE = app
-TARGET = TP1-V1.8-qt
-VERSION = 1.8.0
+TARGET = TP1-V1.9-qt-Hyrda
+VERSION = 1.9.0
 INCLUDEPATH += src src/json src/qt
 DEFINES += QT_GUI BOOST_THREAD_USE_LIB BOOST_SPIRIT_THREADSAFE
 QT += gui core network
